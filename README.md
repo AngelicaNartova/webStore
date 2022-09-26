@@ -6,5 +6,6 @@ and catalog product page based on design mockups.
 ![3](https://user-images.githubusercontent.com/78755964/192171366-937a56b9-7f19-4576-8241-14fbeb4cd2ff.PNG)
 ![4](https://user-images.githubusercontent.com/78755964/192171368-dd87aa5a-1fec-437b-8512-6fa1d6742ef7.PNG)
 
+
 ![5](https://user-images.githubusercontent.com/78755964/192171376-c40c38fd-edc9-49db-8fe4-499f42c08bcb.PNG)
 ![6](https://user-images.githubusercontent.com/78755964/192171382-d4e7d9bc-bd50-4be0-ac02-8e9a52028f9b.PNG)
