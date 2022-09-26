@@ -149,7 +149,7 @@ body {
     content: url('Logo/diagonal2.svg');
     position: absolute;
     bottom: 0;
-    right: 0%;
+    right: 0;
     width: 232px;
     height: 176px;
     }
@@ -249,11 +249,13 @@ footer {
     justify-content: center;
     margin: 0;
 }
+
 .block-main__description {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+
 .block-main__image__description {
     width: 299px;
     display: inline-block;
@@ -263,12 +265,14 @@ footer {
     z-index: 2;
     margin: 0;
 }
+
 .block-main__image {
     position: relative;
     padding-left: 57px;
     margin: 0;
     height: 260px;
 }
+
 .block-main__image::before {
     display: inline-block;
     content: url('2page/diagonal1.svg');
@@ -277,6 +281,7 @@ footer {
     width: 178px;
     height: 135px;
 }
+
 .block-main__image::after {
     display: inline-block;
     content: url('2page/diagonal2.svg');
@@ -285,20 +290,24 @@ footer {
     width: 232px;
     height: 176px;
 }
+
 .block-main__title {
     font-size: 32px;
     padding-top: 39px;
     font-weight: bold;
     font-stretch: ultra-expanded;
 }
+
 .block-main__item {
     font-size: 18px;
     color: #727A82;
 }
+
 .block-main__item:hover {
     color: #151C22;
     font-weight: bold;
 }
+
 .block-main__item-Jackets {
     color: #151C22;
     font-weight: bold;
