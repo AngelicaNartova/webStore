@@ -1,5 +1,6 @@
-It is my the first project where I used HTML and CSS to create a store which consist of landing page
-and catalog product page based on design mockups.
+This is my first project where I used HTML and CSS to create a store which consists of a landing
+page and a catalog product page based on design mockups. I worked on my HTML and CSS skills,
+especially, on the flex-box.
 
 ![1](https://user-images.githubusercontent.com/78755964/192171355-f3c7d564-7d8e-4f8d-8469-16c696812da5.PNG)
 ![2](https://user-images.githubusercontent.com/78755964/192171364-cdc71cff-07a7-4981-9a27-5f8885a20b0a.PNG)
