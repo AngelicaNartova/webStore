@@ -1,3 +1,5 @@
+# Online web store
+
 This is my first project where I used HTML and CSS to create a store which consists of a landing
 page and a catalog product page based on design mockups. I worked on my HTML and CSS skills,
 especially, on the flex-box.
